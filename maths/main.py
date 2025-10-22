@@ -1,6 +1,3 @@
-#!/usr/bin/env python3.14
-# ^^ This is a shebang, i compiled my own python (i use debian) you may adjust
-
 # Using py shell will run give you values, to use a script, use print()
 # Addition
 2 + 2
