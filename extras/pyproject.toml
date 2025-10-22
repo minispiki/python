@@ -1,0 +1,7 @@
+[project]
+dynamic = ["version"]
+name = "Aithingy"
+
+dependencies = [
+    "ollama",
+]
