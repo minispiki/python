@@ -1,2 +1,3 @@
-# python
-Learning python
+# python (v3)
+**Learning python**
+-- Wait for changes --
