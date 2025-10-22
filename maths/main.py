@@ -16,3 +16,7 @@
 ## Force interger
 1 // 2
 6 // 2
+
+# Get remainder
+# eg
+10 % 3
