@@ -2,4 +2,7 @@
 **Learning python**
 -- Wait for changes --
 
-If you are a beginner, run rules.py
+If you are a beginner, run zen.py
+
+## Structure
+python code named main.py in its own folder
