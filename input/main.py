@@ -6,3 +6,15 @@ name = input("What's your name? " ) # Stored by string, proven by
 # type(name)
 
 print("Welcome,", name, "!") # , does the job but i can use +
+# input() # you dont need text in input
+
+print("Now, are YOU the chosen one?")
+t = input() # Need a temp var
+
+if t == "yes":
+    if name == "minispiki":
+        print("no")
+    else:
+        print("You're not special.")
+elif t == "no":
+    print("Have some faith in yourself.")
