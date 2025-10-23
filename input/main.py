@@ -18,3 +18,7 @@ if t == "yes":
         print("You're not special.")
 elif t == "no":
     print("Have some faith in yourself.")
+
+# math tim
+money = float(input("How much money do you have? "))
+print("You have ", money)
