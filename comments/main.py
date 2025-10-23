@@ -9,4 +9,4 @@ a = a - 1  # Decrease value of a by 1
 # a-=1
 # The above also works
 
-print("The value of 'a' is now", a)
+print("'A' has now decreased. The value of 'a' is now", a)
